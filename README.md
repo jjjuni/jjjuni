@@ -17,24 +17,21 @@
 
 <div align="center">
   <a href="https://github.com/jjjuni">
-    <img width=85.5% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjjuni&theme=nord_dark" />
+    <img width=91% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjjuni&theme=nord_dark" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/jjjuni">
-    <img width=42.5% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjjuni&theme=nord_dark" />
+    <img width=28% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjjuni&theme=nord_dark" />
   </a>
   <a href="https://github.com/jjjuni">
-    <img width=42.5% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjjuni&theme=nord_dark" />
+    <img width=28% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjjuni&theme=nord_dark" />
+  </a>
+  <a href="https://github.com/jjjuni">
+    <img width=34% align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leejun0210" />
   </a>
 </div>
 
 <br><br>
-
-## Solved Stats
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejun0210)](https://solved.ac/leejun0210)
-
 
