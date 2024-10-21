@@ -12,6 +12,12 @@
 
 ## Github Stats
 
+
+
+<a href="https://github.com/jjjuni">
+  <img width=99% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjjuni&theme=nord_dark" />
+</a>
+
 <a href="https://github.com/jjjuni">
   <img width=49% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjjuni&theme=nord_dark" />
 </a>
