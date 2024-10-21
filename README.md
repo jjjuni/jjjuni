@@ -12,12 +12,9 @@
 
 ## Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=jjjuni&rank_icon=github&bg_color=00000000&title_color=fff&text_color=fff&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=44% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjuni&show_icons=true&theme=transparent&bg_color=00000000&title_color=fff&text_color=fff&layout=compact" />
-</a>
+<img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjjuni&theme=nord_dark" />
+<img width=44% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=nord_dark" />
+
 
 <br><br>
 
