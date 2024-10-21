@@ -16,7 +16,7 @@
   <img width=49% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjjuni&theme=nord_dark" />
 </a>
 <a href="https://github.com/jjjuni">
-  <img width=49% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=nord_dark" />
+  <img width=49% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjjuni&theme=nord_dark" />
 </a>
 
 <br><br>
