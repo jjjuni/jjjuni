@@ -17,19 +17,19 @@
 
 <div align="center">
   <a href="https://github.com/jjjuni">
-    <img width=91% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjjuni&theme=nord_dark" />
+    <img width=100% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjjuni&theme=nord_dark" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/jjjuni">
-    <img width=28% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjjuni&theme=nord_dark" />
+    <img width=31% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjjuni&theme=nord_dark" />
   </a>
   <a href="https://github.com/jjjuni">
-    <img width=28% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjjuni&theme=nord_dark" />
+    <img width=31% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjjuni&theme=nord_dark" />
   </a>
   <a href="https://github.com/jjjuni">
-    <img width=34% align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leejun0210" />
+    <img width=37% align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leejun0210" />
   </a>
 </div>
 
