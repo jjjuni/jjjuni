@@ -16,7 +16,7 @@
 [![Github Badge](https://img.shields.io/badge/-jjjuni-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jjjuni/)](https://www.github.com/jjjuni/) 
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/j_u.___.n_i)
 [![Gmail Badge](https://img.shields.io/badge/-0210leejun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:0210leejun@gmail.com)](mailto:0210leejun@gmail.com) 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leejun0210)](https://solved.ac/leejun0210)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leejun0210)](http://solved.ac/leejun0210)
 [![Profile views](https://komarev.com/ghpvc/?username=jjjuni)](https://www.github.com/jjjuni/)
 
 <!---
