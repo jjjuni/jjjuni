@@ -11,6 +11,8 @@
 
 <img width='618px' align="center" src="https://github.com/user-attachments/assets/9ab4428b-9ca5-4d1d-aa34-6a5a13cb1921" />
 
+<!--- <img width='73%' align="center" src="https://github.com/user-attachments/assets/9ab4428b-9ca5-4d1d-aa34-6a5a13cb1921" /> -->
+
 <p></p>
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4404F?style=social&logo=instagram)](https://www.instagram.com/j_u.___.n_i)
