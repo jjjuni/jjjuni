@@ -9,17 +9,16 @@
 
 <br>
 
-<img width=63% align="center" src="https://github.com/user-attachments/assets/9ab4428b-9ca5-4d1d-aa34-6a5a13cb1921" />
+<img width=70% align="center" src="https://github.com/user-attachments/assets/9ab4428b-9ca5-4d1d-aa34-6a5a13cb1921" />
 
 <p></p>
 
+[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/jjjuni) 
 [![Github Badge](https://img.shields.io/badge/-jjjuni-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jjjuni/)](https://www.github.com/jjjuni/) 
-[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/j_u.___.n_i)
+[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/j_u.___.n_i)
 [![Gmail Badge](https://img.shields.io/badge/-0210leejun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:0210leejun@gmail.com)](mailto:0210leejun@gmail.com) 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leejun0210)](http://solved.ac/leejun0210)
 [![Profile views](https://komarev.com/ghpvc/?username=jjjuni)](https://www.github.com/jjjuni/)
-
-[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jjjuni) 
 
 <!---
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jjuni)](https://velog.io/@jjuni)
