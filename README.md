@@ -19,6 +19,8 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leejun0210)](http://solved.ac/leejun0210)
 [![Profile views](https://komarev.com/ghpvc/?username=jjjuni)](https://www.github.com/jjjuni/)
 
+[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jjjuni) 
+
 <!---
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jjuni)](https://velog.io/@jjuni)
 -->
