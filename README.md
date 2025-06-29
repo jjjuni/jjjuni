@@ -7,6 +7,25 @@
 ## 🌏 WELCOME JUNI`s GIT! 🌏
 <p></p>
 
+<!-- 깃허브 펫 -->
+<div align = "center"> 
+  <img
+    src="https://render.gitanimals.org/lines/jjjuni?pet-id=727129387811252465"
+    width="30%"
+    height="200"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/jjjuni?pet-id=727129000442113258"
+    width="30%"
+    height="200"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/jjjuni?pet-id=727129531562628067"
+    width="30%"
+    height="200"
+  />
+</div>
+
 <br>
 
 <img width='618px' align="center" src="https://github.com/user-attachments/assets/9ab4428b-9ca5-4d1d-aa34-6a5a13cb1921" />
