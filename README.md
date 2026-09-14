@@ -36,6 +36,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4404F?style=social&logo=instagram)](https://www.instagram.com/j_u.___.n_i)
 [![Github Badge](https://img.shields.io/badge/-jjjuni-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jjjuni/)](https://www.github.com/jjjuni/) 
+[![Velog Badge](https://img.shields.io/badge/-jjjjuni-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@jjjjuni)](https://velog.io/@jjjjuni)
 [![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/jjjuni) 
 [![Gmail Badge](https://img.shields.io/badge/-0210leejun@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:0210leejun@gmail.com)](mailto:0210leejun@gmail.com) 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leejun0210)](http://solved.ac/leejun0210)
